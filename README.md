@@ -15,3 +15,9 @@ En la consola de AWS seleccione el servicio Lambda y cree una función siguiendo
 
 ### Servicio Lambda
 
+-Oprima el botón de crear una función. Cree la función desde el inicio (From scratch)
+-Asígnele un nombre, por ejemplo “square"
+-Seleccione el “Runtime” a Java 8
+-Seleccione usar un Rol existente y use el rol que creó en el paso 1.
+
+![Captura](https://user-images.githubusercontent.com/48265107/78079329-83536200-7371-11ea-9b7b-7fb7a6f2ce80.JPG)
