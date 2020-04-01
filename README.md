@@ -43,6 +43,26 @@ En la consola de AWS seleccione el servicio Lambda y cree una función siguiendo
 
 ![Captura](https://user-images.githubusercontent.com/48265107/78087821-e64ff380-7387-11ea-81ce-3204b8c44c8a.JPG)
 
+## Api Gateway
+
+-En el API de mathServices en el botón de acciones al lado de recirsoso seleccione “Create Method"
+
+- En el campo de “Lambda Function” escriba el nombre de la función que creó en le paso anterior y salve.
+
+![Captura](https://user-images.githubusercontent.com/48265107/78088229-25327900-7389-11ea-8ef8-438569362f94.JPG)
+
+
+![Captura](https://user-images.githubusercontent.com/48265107/78089272-8a3b9e00-738c-11ea-90c6-069e67a3968c.JPG)
+
+## Aplicativo Web
+
+![Captura](https://user-images.githubusercontent.com/48265107/78089402-ee5e6200-738c-11ea-8d06-0d3c69bbd0dd.JPG)
+
+
+![Captura](https://user-images.githubusercontent.com/48265107/78089455-164dc580-738d-11ea-8846-d5c72abcca29.JPG)
+
+
+
 
 
 
