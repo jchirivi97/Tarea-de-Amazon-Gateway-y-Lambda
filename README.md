@@ -16,8 +16,33 @@ En la consola de AWS seleccione el servicio Lambda y cree una función siguiendo
 ### Servicio Lambda
 
 -Oprima el botón de crear una función. Cree la función desde el inicio (From scratch)
+
 -Asígnele un nombre, por ejemplo “square"
+
 -Seleccione el “Runtime” a Java 8
+
 -Seleccione usar un Rol existente y use el rol que creó en el paso 1.
 
 ![Captura](https://user-images.githubusercontent.com/48265107/78079329-83536200-7371-11ea-9b7b-7fb7a6f2ce80.JPG)
+
+-En la sección “Function code” cargue el código
+
+-En el campo “Handler” escriba: {ruta de la clase incluyendo el paquete}::{Nombre del método}. Es decir: 
+
+-Oprima el botón de guardar
+
+-Ahora vamos a probar que funcione:
+
+-En la parte superior en el cuadro de selección que dice ”Select a test event” seleccione “Configure test events”.
+
+-Asigne un nombre de evento, por ejemplo “testSquare"
+
+-En el cuadro de texto, borre el JSON que aparece y solo deje el número 5
+
+-Oprima el botón de crear.
+
+![Captura](https://user-images.githubusercontent.com/48265107/78087821-e64ff380-7387-11ea-81ce-3204b8c44c8a.JPG)
+
+
+
+
